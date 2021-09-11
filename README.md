@@ -20,6 +20,10 @@
 
 ### 4.2 Transformar a su forma rectangular:
 
+![ab (3)](https://user-images.githubusercontent.com/84458025/132931338-7bab081b-b9f4-474a-82cc-19f1a47401e8.png)
+
+![CD (2)](https://user-images.githubusercontent.com/84458025/132931370-5e5957cb-7051-4917-9d95-b1f6c9caa365.png)
+
 ### 4.3 Realice las siguientes operaciones paso a paso, y represente el resultado tanto en su  forma rectangular como su forma polar.
 
 ### 4.4  Resuelva las operaciones anteriores por medio de la calculadora y compare resultados.
