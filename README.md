@@ -27,6 +27,9 @@
 ### 4.3 Realice las siguientes operaciones paso a paso, y represente el resultado tanto en su  forma rectangular como su forma polar.
 
 ### 4.4  Resuelva las operaciones anteriores por medio de la calculadora y compare resultados.
+### 4.4.1 Transforme a su forma polar:
+### 4.4.2 Transformar a su forma rectangular:
+### 4.4.3 Realice las siguientes operaciones paso a paso, y represente el resultado tanto en su  forma rectangular como su forma polar.
 ## 5.VIDEO
 ## 6. CONCLUSIONES
 - El Fasor es una representación de una onda seno en función de su magnitud (amplitud) y dirección (ángulo de fase).
