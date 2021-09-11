@@ -28,6 +28,11 @@
 
 ### 4.4  Resuelva las operaciones anteriores por medio de la calculadora y compare resultados.
 ### 4.4.1 Transforme a su forma polar:
+
+![AB (2)](https://user-images.githubusercontent.com/84458025/132935784-b0f6d6e8-0fa4-45eb-9eed-f049721be518.png)
+
+![CD (2)](https://user-images.githubusercontent.com/84458025/132935799-7f7b0487-2f09-4d92-9fec-716a19c934e8.png)
+
 ### 4.4.2 Transformar a su forma rectangular:
 
 ![cal (2)](https://user-images.githubusercontent.com/84458025/132934772-c73b9144-e005-4581-ba21-bb9e06f0ef91.png)
