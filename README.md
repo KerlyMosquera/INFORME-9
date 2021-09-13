@@ -14,9 +14,9 @@
 
 ![b (2)](https://user-images.githubusercontent.com/84431598/132930355-5715a759-dc49-4364-b5ca-89267615152e.png)
 
-![c (2)](https://user-images.githubusercontent.com/84431598/132930397-2e24215e-7785-4ed8-933c-1c1558c03f6f.png)
+![C (3)](https://user-images.githubusercontent.com/84431598/133034043-707100d8-7935-4794-a3ef-946c9bb99d8c.png)
 
-![d (2)](https://user-images.githubusercontent.com/84431598/132930440-666a508d-d9be-4440-9274-3666200eef3b.png)
+![D (3)](https://user-images.githubusercontent.com/84431598/133034163-c176e02e-d01d-4060-bec0-8360ec895209.png)
 
 ### 4.2 Transformar a su forma rectangular:
 
