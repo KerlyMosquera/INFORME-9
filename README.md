@@ -69,6 +69,16 @@
 
 ![C (2)](https://user-images.githubusercontent.com/84458025/133193277-62a4731c-72cc-40b4-9203-5951b54797cc.png)
 
+El valor arrojado por la calculadora considero como el valor real.
+
+### Calculo del error forma rectangular
+
+![image](https://user-images.githubusercontent.com/84425276/133299482-d4b5de01-c312-4ad0-961d-9d34203ba19f.png)
+
+### Calculo del error forma polar
+
+![image](https://user-images.githubusercontent.com/84425276/133299559-7c588402-ab2b-46bd-8999-c884a39a240d.png)
+
 ## 5.VIDEO
 
 https://youtu.be/pg1dpFPdMiY
@@ -76,6 +86,7 @@ https://youtu.be/pg1dpFPdMiY
 ## 6. CONCLUSIONES
 - El Fasor es una representación de una onda seno en función de su magnitud (amplitud) y dirección (ángulo de fase).
 - Los fasores puede representarse en formas rectangular y polar son dos formas de números complejos que se utilizan para representar cantidades fasoriales. Cada una tiene ciertas ventajas cuando se utiliza en análisis de circuitos, según la aplicación particular. Una cantidad fasorial contiene tanto magnitud como posición angular o fase.
+- El error arrojado esta dentro del margen, es aceptable.
 ## 7. BIBLIOGRAFÍA
 Floyd, T. (2007). *Principios de circuitos eléctricos (8va ed).* México DF, México: Pearson Educación.
 
