@@ -29,6 +29,10 @@
 
 ### 4.3 Realice las siguientes operaciones paso a paso, y represente el resultado tanto en su  forma rectangular como su forma polar.
 
+![a 1 (2)](https://user-images.githubusercontent.com/84431598/133186447-dc6d87e6-a7b8-46dc-ab93-65522ef7015b.png)
+
+![a 2 (2)](https://user-images.githubusercontent.com/84431598/133186426-4c7eff1c-54db-4fc1-9ef0-57ac56d7828f.png)
+
 ### 4.4  Resuelva las operaciones anteriores por medio de la calculadora y compare resultados.
 ### 4.4.1 Transforme a su forma polar:
 
@@ -44,9 +48,6 @@
 
 ### 4.4.3 Realice las siguientes operaciones paso a paso, y represente el resultado tanto en su forma rectangular como su forma polar.
 
-![a 1 (2)](https://user-images.githubusercontent.com/84431598/133186261-d694e97e-9ce5-455a-ab22-efee358bf768.png)
-
-![a 2 (2)](https://user-images.githubusercontent.com/84431598/133186351-ba07207b-bae9-4df9-8b2a-609ce62155be.png)
 
 ### 4.5 CÁLCULO DEL ERROR
 ## 5.VIDEO
