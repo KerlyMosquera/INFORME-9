@@ -39,6 +39,11 @@
 
 ![b 3 (2)](https://user-images.githubusercontent.com/84458025/133186880-081c5064-9ff4-4c96-b8a1-ca76f36f2ce1.png)
 
+![c 1 (2)](https://user-images.githubusercontent.com/84458025/133187001-2c0cd976-5db8-4384-bdef-7018c61eb293.png)
+
+![c 2 (2)](https://user-images.githubusercontent.com/84458025/133187114-0444f877-60bd-40d8-8619-13e7ceb93355.png)
+
+![c 3 (2)](https://user-images.githubusercontent.com/84458025/133187179-ade9fd9b-b0c9-4d79-ba6e-7e145b21799c.png)
 
 ### 4.4  Resuelva las operaciones anteriores por medio de la calculadora y compare resultados.
 ### 4.4.1 Transforme a su forma polar:
