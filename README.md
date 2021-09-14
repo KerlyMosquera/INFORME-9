@@ -60,7 +60,8 @@
 
 ### 4.4.3 Realice las siguientes operaciones paso a paso, y represente el resultado tanto en su forma rectangular como su forma polar.
 
-![1 (2)](https://user-images.githubusercontent.com/84458025/133189564-f0d94f88-9709-4840-9554-99c90ed1f4c3.png)
+![A (2)](https://user-images.githubusercontent.com/84458025/133191545-95d81ca2-bac5-4ee0-92f2-30c69082ef2e.png)
+
 
 
 ### 4.5 CÁLCULO DEL ERROR
