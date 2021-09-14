@@ -65,6 +65,9 @@
 ![B (2)](https://user-images.githubusercontent.com/84431598/133192299-9e831dd5-797f-4d2b-b9f2-1a39d9b4b6b1.png)
 
 ## 5.VIDEO
+
+https://youtu.be/pg1dpFPdMiY
+
 ## 6. CONCLUSIONES
 - El Fasor es una representación de una onda seno en función de su magnitud (amplitud) y dirección (ángulo de fase).
 - Los fasores puede representarse en formas rectangular y polar son dos formas de números complejos que se utilizan para representar cantidades fasoriales. Cada una tiene ciertas ventajas cuando se utiliza en análisis de circuitos, según la aplicación particular. Una cantidad fasorial contiene tanto magnitud como posición angular o fase.
