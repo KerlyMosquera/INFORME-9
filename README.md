@@ -62,9 +62,8 @@
 
 ![A (2)](https://user-images.githubusercontent.com/84458025/133191545-95d81ca2-bac5-4ee0-92f2-30c69082ef2e.png)
 
+![B (2)](https://user-images.githubusercontent.com/84431598/133192299-9e831dd5-797f-4d2b-b9f2-1a39d9b4b6b1.png)
 
-
-### 4.5 CÁLCULO DEL ERROR
 ## 5.VIDEO
 ## 6. CONCLUSIONES
 - El Fasor es una representación de una onda seno en función de su magnitud (amplitud) y dirección (ángulo de fase).
