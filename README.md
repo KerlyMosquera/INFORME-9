@@ -42,6 +42,8 @@
 
 ![cyd (2)](https://user-images.githubusercontent.com/84458025/132934935-7816e5a3-69c2-4562-9299-cae7d03384b4.png)
 
+### 4.4.3 Realice las siguientes operaciones paso a paso, y represente el resultado tanto en su forma rectangular como su forma polar.
+
 ### 4.5 CÁLCULO DEL ERROR
 ## 5.VIDEO
 ## 6. CONCLUSIONES
