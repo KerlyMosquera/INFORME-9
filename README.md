@@ -6,6 +6,9 @@
 - Investigar sobre los fasores en forma rectangular y polar también la representación gráfica.
 - Utilizar una calculadora científica para comprobar resultados obtenidos manualmente.
 ## 2. MARCO TEÓRICO
+
+![FASORES (2)](https://user-images.githubusercontent.com/84431598/133196074-2dfa1650-8e77-457b-81fb-07c5c7b86aff.png)
+
 ## 3. MATERIALES Y EQUIPOS REQUERIDOS
 
 ![materiales (2)](https://user-images.githubusercontent.com/84431598/132755922-76b282a8-39fc-4189-a0e8-2e5bb3171406.png)
