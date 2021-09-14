@@ -1,7 +1,10 @@
 #  PRÁCTICA No. 9 FASORES
 ## 1. OBJETIVOS
 ### OBJETIVO GENERAL
+- Hacer operaciones aritméticas con números complejos.
 ### OBJETIVO ESPECÍFICOS
+- Investigar sobre los fasores en forma rectangular y polar también la representación gráfica.
+- Utilizar una calculadora científica para comprobar resultados obtenidos manualmente.
 ## 2. MARCO TEÓRICO
 ## 3. MATERIALES Y EQUIPOS REQUERIDOS
 
