@@ -73,11 +73,11 @@ El valor arrojado por la calculadora considero como el valor real.
 
 ### Calculo del error forma rectangular
 
-![image](https://user-images.githubusercontent.com/84425276/133299482-d4b5de01-c312-4ad0-961d-9d34203ba19f.png)
+![image](https://user-images.githubusercontent.com/84425276/133299871-59a1d09a-776a-4e8d-846c-e68b36276312.png)
 
 ### Calculo del error forma polar
 
-![image](https://user-images.githubusercontent.com/84425276/133299559-7c588402-ab2b-46bd-8999-c884a39a240d.png)
+![image](https://user-images.githubusercontent.com/84425276/133299928-cfd2a577-050a-4f2c-867d-8a935d50ea49.png)
 
 ## 5.VIDEO
 
