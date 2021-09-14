@@ -64,6 +64,8 @@
 
 ![B (2)](https://user-images.githubusercontent.com/84431598/133192299-9e831dd5-797f-4d2b-b9f2-1a39d9b4b6b1.png)
 
+![C (2)](https://user-images.githubusercontent.com/84458025/133193277-62a4731c-72cc-40b4-9203-5951b54797cc.png)
+
 ## 5.VIDEO
 
 https://youtu.be/pg1dpFPdMiY
